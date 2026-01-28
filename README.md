@@ -1,8 +1,10 @@
 # 🖼️ Background Remover with Python
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="Loading Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation">
+    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="260" alt="Tech Animation">
 </p>
+
 
 <p align="center">
   A simple and powerful Python-based system to remove image backgrounds automatically using the <strong>withoutbg</strong> library.
@@ -100,9 +102,7 @@ You can rename them however you like.
 
 ### 9️⃣ Run the Program
 In the project folder, open terminal and run:
-```bash
-python background_remove.py
-```
+`background_remove.py`
 
 ---
 
@@ -110,3 +110,15 @@ python background_remove.py
 
 You will get a new image file with the background removed automatically.
 Fast, clean, and ready to use!
+
+---
+
+### Before
+![vas](https://github.com/user-attachments/assets/0c50447e-f0ba-42fd-844e-ecd3fa0fdf10)
+
+---
+
+### After!
+<img width="736" height="736" alt="output_vas" src="https://github.com/user-attachments/assets/27baa99f-b47b-419e-b5d9-0ef253c1f7fc" />
+
+
