@@ -113,12 +113,12 @@ Fast, clean, and ready to use!
 
 ---
 
-### Before
+### Before:
 ![vas](https://github.com/user-attachments/assets/0c50447e-f0ba-42fd-844e-ecd3fa0fdf10)
 
 ---
 
-### After!
+### After:
 <img width="736" height="736" alt="output_vas" src="https://github.com/user-attachments/assets/27baa99f-b47b-419e-b5d9-0ef253c1f7fc" />
 
 
